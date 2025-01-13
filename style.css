@@ -1,0 +1,16 @@
+body{
+    width: 100wv;
+    height: 100vh;
+    background: linear-gradient(rgb(104, 104, 235), lightblue );
+    background-repeat: no-repeat;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+}
+
+.opciones{
+    display: flex;
+    justify-content: space-evenly;
+}

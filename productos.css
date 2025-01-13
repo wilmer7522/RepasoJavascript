@@ -1,0 +1,21 @@
+.ver{
+
+background-color: rgb(255, 255, 255);
+width: 14em;
+height: 14em;
+margin: 10px;
+border-radius: 10px;
+
+
+}
+
+.foto{
+    width: 8em;
+    height: 8em;
+}
+
+.letras{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
