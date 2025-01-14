@@ -68,3 +68,19 @@
     color: black;
 }
 
+.restar{
+    width: 2em;
+    height: auto;
+    margin-right: -6px;
+}
+.cuenta {
+    width: 2em;
+    height: auto;
+}
+
+.sumar{
+    width: 2em;
+    height: auto;
+    margin-left: -7px;
+}
+
